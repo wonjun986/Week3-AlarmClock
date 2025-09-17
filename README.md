@@ -1,6 +1,6 @@
 # Week3-AlarmClock
 week3 practice
-//21114515
+//게임공학전공 허원준
 
 import UIKit
 
